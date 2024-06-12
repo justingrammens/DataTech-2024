@@ -1,6 +1,6 @@
 # DataTech-2024
 
-Slides and Examples From My [2024 Data Tech Presentation](https://datatech2024.sched.com/event/1eBhb/the-good-the-bad-and-the-ugly-the-current-state-of-open-source-large-language-models) on The Good, The Bad, and The Ugly: The Current State of Open Source Large Language Models.
+Slides and examples from my [2024 Data Tech Presentation](https://datatech2024.sched.com/event/1eBhb/the-good-the-bad-and-the-ugly-the-current-state-of-open-source-large-language-models) on The Good, The Bad, and The Ugly: The Current State of Open Source Large Language Models.
 
 Join this session for a comprehensive exploration of open-source Large Language Models, contrasting them with their commercial counterparts. This presentation will also investigate the compelling motivations for opting for an open-source LLM, underscoring the inherent advantages, possible risks, and distinct challenges associated with such a choice. By examining and showcasing examples from recent releases, participants will also gain a detailed understanding of the landscape of open-source versus commercial LLMs. Participants will acquire a deeper understanding of this evolving domain, enabling them to navigate the shifting terrain of artificial intelligence with informed insight. Join us for a session designed to clarify the complexities and highlight the innovations within the sphere of open-source LLMs.
 
