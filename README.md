@@ -16,7 +16,7 @@ Most importantly, I’m blessed to have a loving wife and two amazing boys who a
 Additonal Links:
 
 * [Applied AI](https://appliedai.mn)
-* [HuggingFace[(https://huggingface.co)
+* [HuggingFace](https://huggingface.co)
 * [GPT4All](https://gpt4all.io/index.html)
 * 
 
